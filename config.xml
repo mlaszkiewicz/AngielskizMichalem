@@ -18,7 +18,6 @@
     <allow-navigation href="https://wielkasciaga.ml/*" />
 
     <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
-    <gap:plugin name="org.apache.cordova.inappbrowser"  source="pgb"/>
     <gap:plugin name="org.apache.cordova.splashscreen"  source="pgb"/>
 
     <preference name="phonegap-version"           value="cli-9.0.0" />
