@@ -6,7 +6,9 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.grupaekspert.angielskizmichalem"
         version   = "1.0.0">
-
+<name>AngielskizMichałem 1.0</name>
+  <description>Aplikacja z zadaniami z jezyka angielskiego</description>
+  <author href="http://deb.pl" email="it@e-polyglots.com">DEB.pl</author>
     <preference name="stay-in-webview" value="true" />
 
     <access origin="*" browserOnly="true" subdomains="true" />
